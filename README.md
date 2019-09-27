@@ -7,6 +7,8 @@
 
 The notebook is based on Keras's tutorial on sequence-to-sequence learning: https://keras.io/examples/lstm_seq2seq/
 
+The MaRePhoR Romanian phonetic transcription dictionary is available here: https://speech.utcluj.ro/marephor/
+
 Questions? adriana.stan@com.utcluj.ro
 
 
